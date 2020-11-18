@@ -17,5 +17,5 @@ The each column must be a new single measurement.
 ***
 
 ### The program work result example for one column (measurement):
-![The program work result example](https://github.com/storm-sergey/obs-err-calc/blob/master/program_work_result.png)<br/>
+![The program work result example](https://github.com/storm-sergey/obs-err-calc/blob/master/result.png)<br/>
 ***
