@@ -1,6 +1,6 @@
-## observational error calc
+## Observation measurement accuracy calculator
 
-This program calculates observational errors with direct measurements in experiments and shows solution.
+This program calculates observational accuracy with direct measurements in experiments and shows solution.
 
 ### How to fill the spreadsheets:
 *File name should be `Measurements` and format `.xls` or `.xlsx`. It looks like `Measurements.xls` or `Measurements.xlsx`.*
